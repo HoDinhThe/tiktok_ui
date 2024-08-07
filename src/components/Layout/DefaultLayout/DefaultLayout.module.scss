@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: column; //qauy chieu doc
+    align-items: center; // can giua
+}
+.container {
+    width: var(--default-layout-wdith);
+    display: flex;
+}
+.content {
+    flex: 1;
+}
